@@ -1,0 +1,17 @@
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración
+*.log
+*.bak
+*.swp
+
+# Ignorar archivos de OneDrive, AppData, etc.
+OneDrive/
+AppData/
+Documents/
+Downloads/
+Pictures/
+Videos/
+ntuser.*
